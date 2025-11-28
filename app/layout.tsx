@@ -6,11 +6,10 @@ import "./globals.css"
 
 const _inter = Inter({ subsets: ["latin"] })
 
-// <CHANGE> Updated metadata for Parler clone
 export const metadata: Metadata = {
-  title: "Parler - Join The Movement",
+  title: "Gliblio - A Space for Art and Design",
   description:
-    "Social media, redefined—where your privacy is protected, your time is rewarded, and your network is real.",
+    "A visual-first social space for artists, designers, and creative minds to share work and find inspiration. Create, explore, and connect with the creative community.",
     generator: 'v0.app'
 }
 
