@@ -54,12 +54,12 @@ export function Footer() {
             <h4 className="font-semibold text-gray-900 mb-4">Legal</h4>
             <ul className="space-y-3">
               <li>
-                <Link href="#" className="text-sm text-gray-500 hover:text-gray-900">
+                <Link href="https://youthful-truffle-5c7.notion.site/2698dac6fc58803a8042f62628105fd5?source=copy_link" className="text-sm text-gray-500 hover:text-gray-900">
                   Privacy
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-sm text-gray-500 hover:text-gray-900">
+                <Link href="https://youthful-truffle-5c7.notion.site/Gliblio-2ad8dac6fc588013bdbee0cb07efeb60?source=copy_link" className="text-sm text-gray-500 hover:text-gray-900">
                   Terms
                 </Link>
               </li>
